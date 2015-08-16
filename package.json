@@ -1,0 +1,19 @@
+{
+  "name": "website-plugin-sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcusSjolin/website-plugin-sass.git"
+  },
+  "author": "Marcus Sjölin <marcussjolin@icloud.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcusSjolin/website-plugin-sass/issues"
+  },
+  "homepage": "https://github.com/MarcusSjolin/website-plugin-sass#readme"
+}
