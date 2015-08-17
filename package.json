@@ -17,8 +17,10 @@
   },
   "homepage": "https://github.com/MarcusSjolin/website-plugin-sass#readme",
   "dependencies": {
+    "css-loader": "^0.16.0",
     "node-sass": "^3.2.0",
     "sass-loader": "^2.0.1",
+    "scss-loader": "0.0.1",
     "style-loader": "^0.12.3"
   }
 }
