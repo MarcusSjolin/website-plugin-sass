@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/MarcusSjolin/website-plugin-sass/issues"
   },
-  "homepage": "https://github.com/MarcusSjolin/website-plugin-sass#readme"
+  "homepage": "https://github.com/MarcusSjolin/website-plugin-sass#readme",
+  "dependencies": {
+    "node-sass": "^3.2.0",
+    "sass-loader": "^2.0.1",
+    "style-loader": "^0.12.3"
+  }
 }
